@@ -13,7 +13,7 @@ Deep learning classifiers are vulnerable to adversarial attacks that only introd
 **Figure 1 |** Qualitative results of the defense against 10-iteration white-box attack (PGD attack with BPDA) on MNIST dataset using (a) median filtering, (b) total-variance minimization and (c) the proposed RIDE algorithm. The predicted label of each image is shown on top of it.
 
 ## License
-This project is licensed under the MERL Research License - see the [LICENSE](https://github.com/zudi-lin/RIDE_test/blob/master/LICENSE.md) file for details.
+This project is licensed under the MERL Research License - see the [LICENSE](https://github.com/zudi-lin/RIDE/blob/master/LICENSE.md) file for details.
 
 ## Citation
 If you find our work useful for your research, please cite:
